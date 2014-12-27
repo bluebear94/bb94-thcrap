@@ -10,5 +10,12 @@
   "18": "Vore lemes «Denefo Lemys»",
   "20": "Vore lemes «Mja Lemes»",
   "21": "Vore lemes «Fe Lemes»",
-  "22": "Vore lemes «*Djulahan Merseda»"
+  "22": "Vore lemes «*Djulahan Merseda»",
+  "26": "Etearesa asage «Merseda Desor Mjoreso Ryl»",
+  "28": "Mecrata «Enaldeso Etearyl»",
+  "30": "Mecrata «Nesmereso Etearyl»",
+  "32": "Gare «Samena Gare»",
+  "34": "Gare «Voro Mersedaryl Aso»",
+  "36": "Mjoresa asage «Nesmejasartesa Mytratacnata»",
+  "38": "Mjoresa nesmeja «Denefamyn Mytra Tacnata»"
 }
