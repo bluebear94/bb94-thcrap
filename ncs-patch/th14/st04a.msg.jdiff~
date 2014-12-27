@@ -107,5 +107,64 @@
         "Endyr dedeno esejo nerpass!"
       ]
     }
+  },
+  "1": {
+    "30_0": {
+      "lines": [
+        "Domyra, domyra!"
+      ]
+    },
+    "38_0": {
+      "lines": [
+        "E alyrynsse!"
+      ]
+    },
+    "46_0": {
+      "lines": [
+        "Marčetas, ven?"
+      ]
+    },
+    "54_0": {
+      "lines": [
+        "«Petren yšymela mecryd», ver marayvtelses?"
+      ]
+    },
+    "62_0": {
+      "lines": [
+        "Ven?"
+      ]
+    },
+    "70_0": {
+      "lines": [
+        "Ša (šynmenehes) tesa e esejance magras myress petren."
+      ]
+    },
+    "78_0": {
+      "lines": [
+        "Ner emto sete rytass ner endyr entras asen!"
+      ]
+    },
+    "86_0": {
+      "lines": [
+        "Marčetas, ven..."
+      ]
+    },
+    "94_0": {
+      "lines": [
+        "Šan ercedjenas esmerčyras so",
+        "on ar varmenehes ci?"
+      ]
+    },
+    "102_0": {
+      "lines": [
+        "Šan ver yl?"
+      ]
+    },
+    "110_0": {
+      "lines": [
+        "Anerane vore yšymela terel...",
+        "
+      ]
+    }
   }
 }
